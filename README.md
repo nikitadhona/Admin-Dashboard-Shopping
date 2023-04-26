@@ -1,2 +1,2 @@
 # Admin-Dashboard-Shopping
-An admin dashboard for a shopping app full-stack project is a user-friendly tool that helps site owners manage their online store operations, including sales, inventory, customer data, and employee performance. 
+An admin dashboard for a shopping app full-stack project is a user-friendly tool that helps site owners manage their online store operations, including sales, inventory, customer data, and employee performance. Its goal is to improve the site's performance, customer satisfaction, and profitability by providing a customized, responsive, and secure dashboard that integrates with third-party tools.
